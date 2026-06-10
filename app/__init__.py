@@ -1,0 +1,1 @@
+"""Pandit Hub application package."""
